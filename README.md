@@ -97,7 +97,7 @@ optional arguments:
   --local, -l           Force the use of the local data.json file.
 ```
 
-To search for only one user:
+To search for only oone user:
 ```
 python3 sherlock user123
 ```
