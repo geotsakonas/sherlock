@@ -10,7 +10,7 @@ import requests
 import sys
 
 
-class SiteInformation():
+class SiteInfion():
     def __init__(self, name, url_home, url_username_format, username_claimed,
                  username_unclaimed, information):
         """Create Site Information Object.
