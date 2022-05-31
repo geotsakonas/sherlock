@@ -3,3 +3,10 @@ global:
   violations: 
     exclude: 
       - "Useless Return"
+modules:
+    - path: "/tests"
+      languages:
+        - Java
+      violations:
+        exclude:
+          - Useless Return
