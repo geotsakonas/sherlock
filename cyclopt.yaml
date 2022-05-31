@@ -7,3 +7,4 @@ modules:
         exclude:
           - Useless Return
           - Wrong Import Order
+          - Invalid Name
