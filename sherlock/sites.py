@@ -59,7 +59,7 @@ class SiteInfion():
 
         return
 
-    def __str__(self):
+    de __str__(self):
         """Convert Object To String.
 
         Keyword Arguments:
