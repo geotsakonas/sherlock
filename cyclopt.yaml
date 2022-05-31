@@ -1,8 +1,1 @@
---- 
-modules:
-    - path: "/sherlock"
-      languages:
-        - Python
-      violations:
-        exclude:
-          - Wrong Import Order
+
