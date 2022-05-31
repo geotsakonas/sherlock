@@ -35,7 +35,7 @@ class SherlockFuturesSession(FuturesSession):
         """Request URL.
 
         This extends the FuturesSession request method to calculate a response
-        time metric to each request.
+        time metric to each requ
 
         It is taken (almost) directly from the following Stack Overflow answer:
         https://github.com/ross/requests-
