@@ -72,9 +72,7 @@ class SiteInfion():
         return f"{self.name} ({self.url_home})"
 
 
-class SitesInformation():
-    def __init__(self, data_file_path=None):
-        """Create Sites Information Object.
+class Sireate Sites Information Object.
 
         Contains information about all supported web sites.
 
