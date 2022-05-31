@@ -6,7 +6,7 @@ global:
 modules:
     - path: "/tests"
       languages:
-        - Java
+        - Python
       violations:
         exclude:
           - Useless Return
