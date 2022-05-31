@@ -1,4 +1,4 @@
 """Sherlock Tests
 
-This package contains various submodules used to run tests.
+This package contains various submodules used to run tests
 """
