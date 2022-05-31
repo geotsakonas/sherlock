@@ -1,0 +1,9 @@
+--- 
+modules:
+    - path: "/sherlock"
+      languages:
+        - Python
+      violations:
+        exclude:
+          - Useless Return
+          - Wrong Import Order
