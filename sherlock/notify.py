@@ -7,7 +7,7 @@ from result import QueryStatus
 from colorama import Fore, Style, init
 
 
-class QueryNotify():
+class Query
     """Query Notify Object.
 
     Base class that describes methods available to notify the results of
