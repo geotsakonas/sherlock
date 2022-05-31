@@ -5,4 +5,4 @@ modules:
         - Python
       violations:
         exclude:
-        - Useless Return
+          - Useless Return
