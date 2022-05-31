@@ -1,4 +1,4 @@
-"""Sherlock Notify Moduleo
+"""Sherlock Notify Moduleod
 
 This module defines the objects for notifying the caller about the
 results of queries.
