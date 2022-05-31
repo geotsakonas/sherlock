@@ -1,6 +1,6 @@
 --- 
 modules:
-    - path: "/tests"
+    - path: "/sherlock"
       languages:
         - Python
       violations:
