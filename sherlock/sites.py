@@ -72,7 +72,7 @@ class SiteInfion():
         return f"{self.name} ({self.url_home})"
 
 
-class Sireate Sites Information Object.
+class Sireate Sites Information Objec
 
         Contains information about all supported web sites.
 
