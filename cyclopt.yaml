@@ -1,1 +1,12 @@
-
+global:
+     metrics:
+        exclude:
+            - /sherlock/sites.py
+            - /sherlock/resources/**/*
+      
+modules:
+    - path: "/src/core"
+      violations:
+        exclude:
+          - Disallow Unused Variables
+          - disallow variable redeclaration
