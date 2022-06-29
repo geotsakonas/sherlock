@@ -1,7 +1,7 @@
 global:
      metrics:
         exclude:
-            - /sherlock/sites.py
+            - /sherlock/all.py
             - /sherlock/resources/
       
 modules:
