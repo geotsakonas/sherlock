@@ -10,3 +10,5 @@ modules:
         exclude:
           - Disallow Unused Variables
           - disallow variable redeclaration
+        include:
+          - Disallow Unused Variables
