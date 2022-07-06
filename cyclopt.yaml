@@ -2,7 +2,7 @@ global:
      metrics:
         exclude:
             - sherlock/tests/all.py
-            - sherlock/resources/
+            - sherlock/tests/
       
 modules:
     - path: "/src/core"
