@@ -11,4 +11,4 @@ modules:
           - Disallow Unused Variables
           - disallow variable redeclaration
         files_include:
-          - Disallow Unused Variables
+          - /tests/*
